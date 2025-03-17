@@ -35,8 +35,8 @@ body {
 	margin-left: -1em;
 }
 
-.biography-details li::before {
-	color: #EE7623;
+.arrow-details li::before {
+	color: #9d4edd;
 }
 
 .biography-details li, .skill-list li {
@@ -49,3 +49,34 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.bg-warning {
+  background-color: #bde0fe !important; /* Or any other color code you want */
+}
+
+.bg-dark {
+	background-color: #ffc8dd !important;
+}
+
+.atitlecolor {
+	background-color: #c8b6ff;
+}
+
+
+.acontactcolor {
+	background-color: #ede0d4;
+}
+
+
+.myheadersariana {
+	color: #360568;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.titleciju {
+  font-family: 'Alfa Slab One', Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
